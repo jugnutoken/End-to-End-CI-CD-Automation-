@@ -18,3 +18,17 @@
 <h4>Github Webhooks Integration: Github Webhooks trigger the Jenkins pipeline upon code changes, enabling automatic builds and deployments upon every commit.</h4>
 
 <h4>AWS Deployment: The entire pipeline is deployed on AWS, leveraging its scalability, reliability, and elasticity.</h4>
+
+
+<h1>Components</h1>
+
+<h4>Jenkins: Jenkins serves as the automation server orchestrating the CI/CD pipeline. It handles code integration, building, testing, and deployment.</h4>
+
+<h4>Ansible: Ansible automates the provisioning and configuration of infrastructure on AWS. It ensures that the required environment is set up consistently.</h4>
+
+<h4>Docker: Docker is used for containerization, packaging applications and their dependencies into isolated containers. This ensures that applications run consistently across different environments.</h4>
+
+<h4>Github Webhooks: Github Webhooks trigger the Jenkins pipeline upon every code push or pull request, automating the build and deployment process.</h4>
+
+<h4>AWS: The entire setup is deployed on AWS, utilizing services such as EC2 for virtual servers, VPC for networking, and IAM for access management.</h4>
+
