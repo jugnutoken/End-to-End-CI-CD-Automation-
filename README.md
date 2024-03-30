@@ -11,10 +11,10 @@
 <h4>Automated Deployment: The pipeline automates the deployment process from code commit to production, reducing manual intervention and ensuring consistency across environments.
 
 
-Infrastructure as Code (IaC): Ansible is used for provisioning and configuring infrastructure on AWS, enabling the setup of servers, networking, and other resources as code.
+<h4>Infrastructure as Code (IaC): Ansible is used for provisioning and configuring infrastructure on AWS, enabling the setup of servers, networking, and other resources as code.</h4>
 
-Containerization: Docker containers encapsulate applications and their dependencies, ensuring consistency and portability across different environments.
+<h4>Containerization: Docker containers encapsulate applications and their dependencies, ensuring consistency and portability across different environments.</h4>
 
-Github Webhooks Integration: Github Webhooks trigger the Jenkins pipeline upon code changes, enabling automatic builds and deployments upon every commit.
+<h4>Github Webhooks Integration: Github Webhooks trigger the Jenkins pipeline upon code changes, enabling automatic builds and deployments upon every commit.</h4>
 
-AWS Deployment: The entire pipeline is deployed on AWS, leveraging its scalability, reliability, and elasticity.</h4>
+<h4>AWS Deployment: The entire pipeline is deployed on AWS, leveraging its scalability, reliability, and elasticity.</h4>
