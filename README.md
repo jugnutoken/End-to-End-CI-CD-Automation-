@@ -42,3 +42,11 @@
 <h2>AWS:</h2>
 <h4>The entire setup is deployed on AWS, utilizing services such as EC2 for virtual servers, VPC for networking, and IAM for access management.</h4>
 
+
+<h1>Usage</h1>
+
+<h4>1.Push your code changes to the Github repository.
+2.Github Webhooks trigger the Jenkins pipeline.
+3.Jenkins executes the pipeline steps, including building, testing, and deploying the application.
+4.Monitor the pipeline execution and check the deployment status on the Jenkins dashboard.
+</h4>
