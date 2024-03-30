@@ -10,6 +10,7 @@
 
 <h4>Automated Deployment: The pipeline automates the deployment process from code commit to production, reducing manual intervention and ensuring consistency across environments.
 
+
 Infrastructure as Code (IaC): Ansible is used for provisioning and configuring infrastructure on AWS, enabling the setup of servers, networking, and other resources as code.
 
 Containerization: Docker containers encapsulate applications and their dependencies, ensuring consistency and portability across different environments.
