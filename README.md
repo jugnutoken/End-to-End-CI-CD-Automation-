@@ -22,13 +22,13 @@
 
 <h1>Components</h1>
 
-<h4>Jenkins: Jenkins serves as the automation server orchestrating the CI/CD pipeline. It handles code integration, building, testing, and deployment.</h4>
+<h2>Jenkins:</h2> <h4>Jenkins serves as the automation server orchestrating the CI/CD pipeline. It handles code integration, building, testing, and deployment.</h4>
 
-<h4>Ansible: Ansible automates the provisioning and configuration of infrastructure on AWS. It ensures that the required environment is set up consistently.</h4>
+<h2>Ansible:</h2> <h4>Ansible automates the provisioning and configuration of infrastructure on AWS. It ensures that the required environment is set up consistently.</h4>
 
-<h4>Docker: Docker is used for containerization, packaging applications and their dependencies into isolated containers. This ensures that applications run consistently across different environments.</h4>
+<h2>Docker:</h2> <h4>Docker is used for containerization, packaging applications and their dependencies into isolated containers. This ensures that applications run consistently across different environments.</h4>
 
-<h4>Github Webhooks: Github Webhooks trigger the Jenkins pipeline upon every code push or pull request, automating the build and deployment process.</h4>
+<h2>Github Webhooks:</h2> <h4>Github Webhooks trigger the Jenkins pipeline upon every code push or pull request, automating the build and deployment process.</h4>
 
-<h4>AWS: The entire setup is deployed on AWS, utilizing services such as EC2 for virtual servers, VPC for networking, and IAM for access management.</h4>
+<h2>AWS:</h2> <h4>The entire setup is deployed on AWS, utilizing services such as EC2 for virtual servers, VPC for networking, and IAM for access management.</h4>
 
