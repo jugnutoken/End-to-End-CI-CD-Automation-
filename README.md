@@ -45,8 +45,8 @@
 
 <h1>Usage</h1>
 
-<h4>1.Push your code changes to the Github repository.
-2.Github Webhooks trigger the Jenkins pipeline.
-3.Jenkins executes the pipeline steps, including building, testing, and deploying the application.
-4.Monitor the pipeline execution and check the deployment status on the Jenkins dashboard.
+<h4>1.Push your code changes to the Github repository.</h4>
+<h4>2.Github Webhooks trigger the Jenkins pipeline.</h4>
+<h4>3.Jenkins executes the pipeline steps, including building, testing, and deploying the application.</h4>
+<h4>4.Monitor the pipeline execution and check the deployment status on the Jenkins dashboard.
 </h4>
