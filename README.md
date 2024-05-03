@@ -8,7 +8,7 @@
 
 <h1>Features</h1>
 
-<h4>Automated Deployment: The pipeline automates the deployment process from code commit to production, reducing manual intervention and ensuring consistency across environments.
+<h4>Automated Deployment: This process makes it so that once we write some code and save it, that code gets automatically sent to where it needs to go, like putting it on a website, without needing someone to do it by hand every time. This helps keep everything the same across different places where we put our code.
 
 <h4>Github Webhooks Integration: Github Webhooks trigger the Jenkins pipeline upon code changes, enabling automatic builds and deployments upon every commit.</h4>
 
