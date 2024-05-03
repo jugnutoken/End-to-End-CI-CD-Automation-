@@ -4,7 +4,7 @@
 
 <h1>Overview</h1>
 
-<h4>Continuous Integration and Continuous Deployment (CI/CD) are essential practices in modern software development, ensuring rapid and reliable delivery of applications. This project integrates Jenkins, a powerful automation server..</h4>
+<h4>"In modern software development, there are two important things we do to make sure our apps get out quickly and work well: Continuous Integration and Continuous Deployment (CI/CD). These practices help us quickly and reliably deliver our apps. </h4>
 
 <h1>Features</h1>
 
