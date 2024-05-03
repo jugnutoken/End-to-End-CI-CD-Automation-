@@ -18,19 +18,19 @@
 <h1>Components</h1>
 
 <h2>Jenkins:</h2> 
-<h4>Jenkins serves as the automation server orchestrating the CI/CD pipeline. It handles code integration, building, testing, and deployment.</h4>
+<h4>Jenkins is like the conductor of an orchestra, making sure everything in our software development process runs smoothly. It takes care of putting our code together, testing it, and getting it ready to go live .</h4>
 
 
 <h2>Ansible:</h2>
-<h4>Ansible automates the provisioning and configuration of infrastructure on AWS. It ensures that the required environment is set up consistently.</h4>
+<h4>Think of Ansible as the handyman who sets up and organizes everything we need on our cloud platform, AWS. It ensures that all the parts of our digital world are set up correctly and work together smoothly. </h4>
 
 
 <h2>Docker:</h2> 
-<h4>Docker is used for containerization, packaging applications and their dependencies into isolated containers. This ensures that applications run consistently across different environments.</h4>
+<h4> Docker is like a magic box where we put our applications and all the stuff they need to run. It keeps everything neat and tidy, making sure our apps run the same no matter where they are. .</h4>
 
 
 <h2>Github Webhooks:</h2>
-<h4>Github Webhooks trigger the Jenkins pipeline upon every code push or pull request, automating the build and deployment process.</h4>
+<h4>These are like little messengers that tell Jenkins whenever something new happens with our code on GitHub. They make sure Jenkins knows when to start working on our code automatically.</h4>
 
 
 
