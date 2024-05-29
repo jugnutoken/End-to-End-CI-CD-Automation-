@@ -10,7 +10,7 @@
 
 <h4>Automated Deployment  :   This process makes it so that once we write some code and save it, that code gets automatically sent to where it needs to go, like putting it on a website, without needing someone to do it by hand every time. This helps keep everything the same across different places where we put our code.
 
-<h4>Github Webhooks Integration   :  When we make changes to our code on GitHub, a tool called GitHub Webhooks tells another tool called Jenkins to start doing its job. Jenkins then automatically builds and puts our code where it needs to go, every time we change something.</h4>
+<h4>Github Webhooks Integration   :  When we make changes to our code on GitHub, a tool called GitHub Weebhooks tells another tool called Jenkins to start doing its job. Jenkins then automatically builds and puts our code where it needs to go, every time we change something.</h4>
 
 <h4>AWS Deployment: The entire pipeline is deployed on AWS, leveraging its scalability, reliability, and elasticity.</h4>
 
